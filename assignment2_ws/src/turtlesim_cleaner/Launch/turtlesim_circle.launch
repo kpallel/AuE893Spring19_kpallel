@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node" />
+     
+    <node pkg="turtlesim_cleaner" type="circle.py" name="turtle_cicle" />
+
+</launch>
+

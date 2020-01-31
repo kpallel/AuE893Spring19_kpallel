@@ -1,0 +1,2 @@
+turtlesim_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/kpallel/AuE8930/assignment2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kpallel/AuE8930/assignment2_ws/install -G Unix Makefiles
